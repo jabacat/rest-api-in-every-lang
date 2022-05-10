@@ -10,13 +10,13 @@ Please add more langs and frameworks!
 - Javascript
 	- [ ] Express
 - C
-	- *Add framworks*
+	- *Add frameworks*
 - C++
- 	- *Add framworks*
+ 	- *Add frameworks*
 - Java
-	- *Add framworks*
+	- *Add frameworks*
 - Go
-	- *Add framworks*
+	- *Add frameworks*
 - Ruby
-	- *Add framworks*
+	- *Add frameworks*
 
