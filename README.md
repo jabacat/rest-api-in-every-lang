@@ -6,7 +6,9 @@ Please add more langs and frameworks!
 	- [ ] Flask
 	- [ ] Django
 - Rust
-	- [ ] Rocket 	
+	- [ ] Rocket
+- Javascript
+	- [ ] Express
 - C
 	- *Add framworks*
 - C++
@@ -17,5 +19,4 @@ Please add more langs and frameworks!
 	- *Add framworks*
 - Ruby
 	- *Add framworks*
-- Javascript
-	- [ ] Express
+
