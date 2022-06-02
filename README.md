@@ -9,13 +9,13 @@ Please add more langs and frameworks!
 	- [ ] Rocket
 - Javascript
 	- [ ] Express
+- Go
+	- [x] net/http
 - C
 	- *Add frameworks*
 - C++
  	- *Add frameworks*
 - Java
-	- *Add frameworks*
-- Go
 	- *Add frameworks*
 - Ruby
 	- *Add frameworks*
