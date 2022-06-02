@@ -3,7 +3,7 @@ Please add more langs and frameworks!
 
 - Python
 	- [x] Fast API
-	- [ ] Flask
+	- [x] Flask
 	- [ ] Django
 - Rust
 	- [ ] Rocket
