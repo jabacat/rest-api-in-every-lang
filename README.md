@@ -11,12 +11,11 @@ Please add more langs and frameworks!
 	- [ ] Express
 - Go
 	- [x] net/http
+- Ruby
+	- [x] Sinatra 
 - C
 	- *Add frameworks*
 - C++
  	- *Add frameworks*
 - Java
 	- *Add frameworks*
-- Ruby
-	- *Add frameworks*
-
