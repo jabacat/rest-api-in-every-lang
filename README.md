@@ -3,7 +3,7 @@ Please add more langs and frameworks!
 
 - Python
 	- [x] Fast API
-	- [ ] Flask
+	- [x] Flask
 	- [ ] Django
 - Rust
 	- [ ] Rocket
@@ -11,6 +11,7 @@ Please add more langs and frameworks!
 	- [ ] Express
 - Go
 	- [x] net/http
+	- [x] gin
 - Ruby
 	- [x] Sinatra 
 - C
