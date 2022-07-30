@@ -7,6 +7,7 @@ Please add more langs and frameworks!
 	- [ ] Django
 - Rust
 	- [ ] Rocket
+	- [ ] Actix
 - Javascript
 	- [ ] Express
 - Go
