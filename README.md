@@ -20,5 +20,5 @@ Please add more langs and frameworks!
 - C++
  	- *Add frameworks*
 - Java
-    - [ ] No API
-    - [ ] Spark
+    	- [x] No API
+    	- [x] Spark
