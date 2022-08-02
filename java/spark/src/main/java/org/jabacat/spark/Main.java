@@ -7,3 +7,5 @@ public class Main {
         get("/intro", (req, res) -> "Welp this is Spark ig");
     }
 }
+
+// use `curl http://localhost:4567/intro`
