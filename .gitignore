@@ -1,2 +1,5 @@
 __pycache__/
 rust/*/target/
+.idea/
+java/spark/target/
+java/frameworkless/target/
