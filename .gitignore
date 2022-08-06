@@ -1,4 +1,6 @@
 __pycache__/
+rust/*/target/
+rust/*/Cargo.lock
 .idea/
 java/spark/target/
 java/frameworkless/target/
