@@ -1,6 +1,6 @@
 #[macro_use] extern crate rocket;
 
-const LANGUAGES: [&str; 6] = ["rust", "python", "java", "c++", "c#", "go", "javascript"];
+const LANGUAGES: [&str; 7] = ["rust", "python", "java", "c++", "c#", "go", "javascript"];
 
 #[get("/")]
 fn index() -> &'static str {
